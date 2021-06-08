@@ -1,0 +1,5 @@
+###
+GET https://the-cocktail-db.p.rapidapi.com/lookup.php?iid=11416
+Content-Type: application/json
+x-rapidapi-key: 'e5b7f97a78msh3b1ba27c40d8ccdp105034jsn34e2da32d50b',
+x-rapidapi-host: 'the-cocktail-db.p.rapidapi.com'
